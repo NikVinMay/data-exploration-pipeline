@@ -1,3 +1,6 @@
+> 📝 **Note by Nikhil**  
+> This repository is a **fork** of the original educational EDA notebooks by @justmarkham.  
+> I am using it to build a reusable data exploration workflow for cleaning, transforming, and visualising raw datasets for future machine-learning projects.
 # Python pandas video series
 
 The series is also available as a [free online course](https://courses.dataschool.io/pandas-in-30-days) that includes updated content, exercises, and a certificate of completion.
